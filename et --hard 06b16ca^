@@ -1,0 +1,41 @@
+[33mcommit a9c2af744bbd2e86359990d40be803bb6c14051d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Sat Dec 6 18:32:43 2025 +0545
+
+    Project Completed
+
+[33mcommit a9936acfb4e8d27204fbd8769828869c4b38c3f7[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Sat Nov 15 15:17:12 2025 +0545
+
+    Add .gitignore and stop tracking secrets & node_modules
+
+[33mcommit 4c32e3232a6ad4108a88c8d8ec4af568d7bcf82e[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Sat Nov 15 15:15:10 2025 +0545
+
+    Ignore .env file
+
+[33mcommit f6d352ddf4eefc336e731f1fba72ff5ff8638401[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Sat Nov 15 15:10:28 2025 +0545
+
+    Trailer Videos are not working properly
+
+[33mcommit 4f7cd1d6f2926ab68b43dfef0d80bace6ae564bc[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Fri Sep 26 11:59:15 2025 +0545
+
+    Stripe added
+
+[33mcommit ac29e4aaf1f5729d26dd967c7d8c313ab988c0cd[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Tue Sep 2 14:37:14 2025 +0545
+
+    Env variables changed
+
+[33mcommit 06b16ca2ed892afee8fd640f03b59cbbf30be68f[m
+Author: Zara-codes <zarawaytogo@gmail.com>
+Date:   Mon Sep 1 14:54:41 2025 +0545
+
+    Movie show
